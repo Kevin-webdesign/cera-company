@@ -75,7 +75,7 @@ const About = () => {
                         <FaCalendarAlt /> 2017 - Present
                       </h3>
                       <h4 className="timeline-title">TRUST PROPERTY CONSULTANCY Ltd.</h4>
-                      <h2 className="timeline-text">Real Property Value Assistant</h2>
+                      <h2 className="timeline-text">Real Property Value Assistant And Field Technician</h2>
                       <ul>
                         <li>Conduct research and analysis of local real estate market trends</li>
                         <li>Coordinate with various consultants, including structure engineers</li>
@@ -188,7 +188,7 @@ const About = () => {
                       </h3>
                       <h4 className="timeline-title">Driving License</h4>
                       <p className="timeline-text">
-                      Driving License Categories ABCDEF
+                      Driving License Categories A,B,C,D,EF
                       </p>
                     </div>
                   </div>
