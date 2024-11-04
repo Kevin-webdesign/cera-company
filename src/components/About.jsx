@@ -62,7 +62,7 @@ const About = () => {
                         <li>Prepare comprehensive construction drawings</li>
                           <li>Oversee day-to-day operations on construction sites</li>
                         <li>Prepare accurate cost estimates for construction projects</li>
-                        <li>Coordinate with various consultants, including structural engineers</li>
+                        <li>Coordinate with various consultants, including structure engineers</li>
                         <li>Provide on-site supervision and oversight during the construction phase</li>
                       </ul>
                     </div>
@@ -178,6 +178,17 @@ const About = () => {
                       <h4 className="timeline-title">PMI Training</h4>
                       <p className="timeline-text">
                        PMI Trainee in Project Management according to the PMBOK 7th Edition and Agile Practice Guide
+                      </p>
+                    </div>
+                  </div>
+                  <div className="timeline-item">
+                    <div className="cicle">
+                      <h3 className="timeline-date">
+                        <FaCalendarAlt />  September 2022
+                      </h3>
+                      <h4 className="timeline-title">Driving License</h4>
+                      <p className="timeline-text">
+                      Driving License Categories ABCDEF
                       </p>
                     </div>
                   </div>

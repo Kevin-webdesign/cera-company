@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaBuilding, FaDraftingCompass, FaClipboardList, FaMapMarkedAlt, FaChartLine, FaHardHat } from 'react-icons/fa';
+import { FaBuilding, FaDraftingCompass, FaClipboardList, FaMapMarkedAlt, FaChartLine, FaHardHat,FaCheckCircle } from 'react-icons/fa';
 import Navbar from './navbar/Navbar';
 import Footer from './footer/Footer';
 import contactImage from '../components/cera pictures/contact.jpg';
@@ -31,6 +31,15 @@ const Services = () => {
                 Architecture
             </h4>
             <p>Creating functional, safe, and aesthetically pleasing building designs.</p>
+          </div>
+        </div>
+        <div className="row-1">
+          <div className="service">
+            <FaCheckCircle className="service-icon" />
+            <h4>
+                Construction permit
+            </h4>
+            <p>Application of construction permit of all kind</p>
           </div>
         </div>
         <div className="row-1">
