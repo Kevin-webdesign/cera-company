@@ -31,7 +31,7 @@ function Home() {
               <h1><span>Chancelier Cera RWANYAGASORE</span></h1>
               <h3><span className="typing">{text}</span><Cursor cursorStyle="." /></h3>
               <p className="me">
-                Registered member of Instution of Engineers Rwanda (IER) wiht more than 9 years of hands-on experience
+                Registered member of Instution of Engineers Rwanda (IER) wiht more than 8 years of hands-on experience
                 in delivering innovative infrastructure solutions through Architectural and Structural
                 Design,Construction permitting , Land and Quantity Surveying, and Construction Sites Supervision. Known for
                 seamlessly blending technical expertise with creative problem-solving, I thrive in
