@@ -1,6 +1,7 @@
 import React from 'react';
-import './Footer.css'; // You can style your footer here
-import { FaLinkedin, FaInstagram } from 'react-icons/fa';
+import './Footer.css';
+import { FaLinkedin, FaInstagram} from 'react-icons/fa';
+import logo from './logo.png';
 const Footer = () => {
   return (
     <footer className="footer">
@@ -28,11 +29,12 @@ const Footer = () => {
               <i><FaInstagram/></i>
             </a>
             <a href="https://www.linkedin.com/in/chancelier-cera-rwanyagasore-6841a2128?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app "><FaLinkedin /></a>
+            <a href="https://x.com/cerachancellor"><img src={logo} alt="" /></a>
           </div>
         </div>
       </div>
       <div className="footer-bottom">
-        <p>&copy; 2024 Cera Engineering Service Ltd. All Rights Reserved.</p>
+        <p>&copy; 2025 Cera Engineering Service Ltd. All Rights Reserved.</p>
       </div>
     </footer>
   );
