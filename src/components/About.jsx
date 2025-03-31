@@ -151,9 +151,9 @@ const About = () => {
                       <h3 className="timeline-date">
                         <FaCalendarAlt /> March - June 2024
                       </h3>
-                      <h4 className="timeline-title">ProtaSoftware Training</h4>
+                      <h4 className="timeline-title">ProtaStructure Training</h4>
                       <p className="timeline-text">
-                        ProtaStructure Trainee in Reinforced Concrete Design.
+                        Certified ProtaSoftware Trainee in Reinforced Concrete Design.
                       </p>
                     </div>
                   </div>
@@ -165,7 +165,7 @@ const About = () => {
                       </h3>
                       <h4 className="timeline-title">Autodesk Revit Training</h4>
                       <p className="timeline-text">
-                        Autodesk Revit Trainee in Architectural Design
+                        Certified Autodesk Trainee in Architectural Design
                       </p>
                     </div>
                   </div>
