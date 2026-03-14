@@ -28,17 +28,17 @@ const About = () => {
           >
             Work Experience
           </p>
-          <p
+          {/* <p
             className={`tabs ${activeTab === 'education' ? 'active_tab' : ''}`}
             onClick={() => openTab('education')}
           >
             Education
-          </p>
+          </p> */}
           <p
             className={`tabs ${activeTab === 'skills' ? 'active_tab' : ''}`}
             onClick={() => openTab('skills')}
           >
-            Certifications/Achievements/Trainings
+            Training Certificates & CPD records
           </p>
         </div>
 
