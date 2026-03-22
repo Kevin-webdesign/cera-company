@@ -22,7 +22,7 @@ const About = () => {
       <div className="about-col-2">
         <div className="cef">
           {/* Tab navigation */}
-          <p
+          <p 
             className={`tabs ${activeTab === 'experience' ? 'active_tab' : ''}`}
             onClick={() => openTab('experience')}
           >
