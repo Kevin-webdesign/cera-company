@@ -1,6 +1,6 @@
 import React from 'react';
 import './Footer.css';
-import { FaLinkedin, FaInstagram} from 'react-icons/fa';
+import { FaLinkedin, FaInstagram, FaGlobe } from 'react-icons/fa';
 import logo from './logo.png';
 const Footer = () => {
   return (
@@ -30,6 +30,9 @@ const Footer = () => {
               <i><FaInstagram/></i>
             </a>
             <a href="https://www.linkedin.com/in/chancelier-cera-rwanyagasore-6841a2128?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app "><FaLinkedin /></a>
+            <a href="https://ceraengineeringservices.com" target="_blank" rel="noopener noreferrer">
+              <i><FaGlobe /></i>
+            </a>
           </div>
         </div>
       </div>
