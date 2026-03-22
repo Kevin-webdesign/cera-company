@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import logo from '../navbar/logo.png';
-import { FaHome, FaUser, FaList, FaBriefcase, FaComment, FaTimes, FaBars } from 'react-icons/fa';
+import { FaHome, FaUser, FaList, FaBriefcase, FaComment, FaBars } from 'react-icons/fa';
 
 const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);

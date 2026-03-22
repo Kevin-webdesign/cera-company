@@ -4,7 +4,7 @@ import { useTypewriter, Cursor } from 'react-simple-typewriter';
 import cera from './images/cv cera2.png';
 import Footer from './footer/Footer';
 import topimg from './cera pictures/top.jpg';
-import { FaWhatsapp ,FaFileDownload} from 'react-icons/fa';
+import { FaWhatsapp} from 'react-icons/fa';
 
 function Home() {
   const [text] = useTypewriter({
